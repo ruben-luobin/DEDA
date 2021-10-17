@@ -1,0 +1,2 @@
+Moved decline to positive, added increase to negative, spike
+
